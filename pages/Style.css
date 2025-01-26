@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-color:#966d08; color:#FFF; font-size:14px; font-family:zawgyi-One;}	
+
+#header{background-image:url(../Images/Banner.gif); background-repeat:no-repeat; height:200px;}
+
+#website{font-family:"Courier New", Courier, monospace; font-size:16px; color:#FFF; font-weight:bold;}
+
+#topmenu a{background-color:#900; font-family:"Courier New", Courier, monospace; font-size:18px; width:130px; height:30px; text-decoration:none; display:block; color:#FFF; text-align:center; padding-top:5px;}
+
+#topmenu a:hover{background-color:#eacd85; font-family:"Courier New", Courier, monospace; font-size:18px; width:130px; height:30px; text-decoration:none; display:block; color:#000;  text-align:center; padding-top:5px;}
+
+#left{border:8px #cc9409 solid; background-color:#f9e3aa; }
+
+#leftmenu a{font-family:zawgyi-One; font-size:14px; color:#000
+; text-decoration:none; padding-left:10px; height:30px; border:2px #cc9409 dotted; width:200px; display:block; border-radius:10px 10px 10px 10px; background-color:#ebd190; text-align:center;}
+
+#leftmenu a:hover{font-family:zawgyi-One; font-size:14px; color:#F00; text-decoration:none; padding-left:10px; height:30px; border:2px #cc9409 dotted; width:200px; display:block; border-radius:10px 10px 10px 10px; background-color:#ebd190; text-align:center;}
+
+#contentheader{font-family:zawgyi-One; font-size:16px; font-weight:bold; color:#000; padding-left:20px; text-align:center;}
+
+#bodyfont{font-family:zawgyi-One; font-size:13px; color:#000; padding-left:10px;}
+
+#footer{font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#FFF; height:100px; background-color:#900; text-align:center;}
+
+#link{font-family:zawgyi-One; font-size:14px; font-weight:bold; padding-left:30px; color:#00F;}
+
+#subhead{font-family:zawgyi-One; font-size:15px; color:#F00; padding-left:20px; font-style:italic; font-weight:bold;}
+
+#img{border:3px #F00 inset;} 
+
+#feed{font-family:Arial, Helvetica, sans-serif; font-size:25px; font-weight:bold; color:#F00; padding-left:20px; text-align:center;}
+
+#contactus{font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#000; letter-spacing:1px; padding-left:20px; font-weight:bold;}
